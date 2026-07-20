@@ -26,3 +26,11 @@ print(arr1d)
 print("original array",arr1d)
 
 
+q=np.random.rand(3,3)
+
+r=np.random.randn(3,3)
+t=np.random.randint(10,size=(3,3))
+
+print(q)
+print(r)
+print(t)
