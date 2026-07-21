@@ -9,6 +9,3 @@ print(rem_dup([12,12,13,14,14,15,15,16,17]))
             
             
             
-def remove(arr1):
-    return set(arr1)
-print(remove([12,12,14,13,14,15]))
